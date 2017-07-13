@@ -17,7 +17,6 @@ practicing them in postgresql_
 [ ]Can describe the difference between a left, right, inner and outer joins in SQL
 [ ]Can define a table with a auto sequencing primary key in SQL
 
-
 ## Setup
 
 1. Ensure your postgres server is running: `brew services start postgresql`
